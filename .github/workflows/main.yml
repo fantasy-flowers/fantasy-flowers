@@ -23,4 +23,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_LOC_CHART: "false"
           SHOW_SHORT_INFO: "false"
+          SHOW_PROJECTS: "false"
           COMMIT_EMAIL: "168745770+fantasy-flowers@users.noreply.github.com"
