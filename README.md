@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://count.getloli.com/@fantasy-flowers?name=fantasy-flowers&theme=original-new&padding=7&offset=0&align=top&scale=1.2&pixelated=0&darkmode=auto" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
-<img align='right' src='./assets/2.png' width='300px'>
+<img align='right' src='./assets/5.png' width='300px'>
 
 #### platforms
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
@@ -112,4 +112,6 @@ Python                   1 repo              ███░░░░░░░░�
 
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<img align='center' src='./assets/6.png' width='px' height='px'>
 
