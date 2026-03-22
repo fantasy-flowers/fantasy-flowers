@@ -53,14 +53,10 @@ Here are some ideas to get you started:
 
 
 #### my coding status
-
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=fantasy-flowers&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=fantasy-flowers&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fantasy-flowers&layout=compact&theme=tokyonight)
 
 
 #### coding time
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
