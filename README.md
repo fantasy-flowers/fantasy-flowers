@@ -58,26 +58,28 @@ Here are some ideas to get you started:
 
 #### coding time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2051%20mins-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-🌆 白天                     82 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌃 傍晚                     144 commits         ██████████░░░░░░░░░░░░░░░   40.45 % 
-🌙 晚上                     120 commits         ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌞 早晨                     10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌆 白天                     82 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌃 傍晚                     144 commits         ██████████░░░░░░░░░░░░░░░   40.34 % 
+🌙 晚上                     121 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-星期二                      45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-星期三                      54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-星期四                      43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-星期五                      39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-星期六                      83 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-星期日                      52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+星期一                      41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+星期二                      45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+星期三                      54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+星期四                      43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+星期五                      39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+星期六                      83 commits          ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+星期日                      52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 ```
 
 
@@ -94,6 +96,12 @@ Here are some ideas to get you started:
 本周没有记录到任何活动
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **我最常使用 Vue** 
 
 ```text
@@ -106,7 +114,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-07-26 19:42:32 UTC
+ Last Updated on 2026-07-27 20:02:51 UTC
 <!--END_SECTION:waka-->
 
 
