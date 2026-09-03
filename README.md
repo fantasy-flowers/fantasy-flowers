@@ -65,21 +65,21 @@ Here are some ideas to get you started:
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-🌆 白天                     82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-🌃 傍晚                     145 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌙 晚上                     153 commits         ██████████░░░░░░░░░░░░░░░   38.83 % 
+🌞 早晨                     14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+🌆 白天                     85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌃 傍晚                     150 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌙 晚上                     154 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-星期二                      50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-星期四                      48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-星期五                      44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-星期六                      88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-星期日                      58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+星期一                      46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+星期二                      50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+星期四                      57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+星期五                      44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+星期六                      88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+星期日                      58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -87,23 +87,40 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Python                   13 mins             █████████████████░░░░░░░░   69.07 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+C#                       1 hr 9 mins         █████████████░░░░░░░░░░░░   53.16 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 编辑器: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   99.86 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 操作系统: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 58 mins (44.78%)
+
+✍️ 0 lines written by AI, 63 lines written by hand (0.0% AI-written)
+
+🔤 25,053 Input Tokens, 25,053 Output Tokens
+
+💵 $0.20 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 25,198 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -119,7 +136,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-02 21:11:33 UTC
+ Last Updated on 2026-09-03 21:11:29 UTC
 <!--END_SECTION:waka-->
 
 
