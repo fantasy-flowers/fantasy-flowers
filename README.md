@@ -58,28 +58,28 @@ Here are some ideas to get you started:
 
 #### coding time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2050%20mins-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-🌆 白天                     85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-🌃 傍晚                     150 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
-🌙 晚上                     154 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+🌃 傍晚                     150 commits         █████████░░░░░░░░░░░░░░░░   36.59 % 
+🌙 晚上                     155 commits         █████████░░░░░░░░░░░░░░░░   37.80 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-星期二                      50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-星期四                      57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-星期五                      44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-星期六                      88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-星期日                      58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+星期一                      46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+星期二                      50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+星期六                      88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+星期日                      58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
 
@@ -87,26 +87,26 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-C#                       1 hr 9 mins         █████████████░░░░░░░░░░░░   53.16 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+C#                       1 hr 21 mins        █████████████░░░░░░░░░░░░   51.15 % 
+Markdown                 44 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 11 mins       █████████████████████████   99.86 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   99.89 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 操作系统: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (44.78%)
+⏱ AI Coding Time: 58 mins (36.81%)
 
-✍️ 0 lines written by AI, 63 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 69 lines written by hand (0.0% AI-written)
 
 🔤 25,053 Input Tokens, 25,053 Output Tokens
 
@@ -136,7 +136,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-03 21:11:29 UTC
+ Last Updated on 2026-09-04 20:54:25 UTC
 <!--END_SECTION:waka-->
 
 
