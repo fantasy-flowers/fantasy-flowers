@@ -58,28 +58,28 @@ Here are some ideas to get you started:
 
 #### coding time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2050%20mins-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-🌃 傍晚                     150 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌙 晚上                     160 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌃 傍晚                     156 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌙 晚上                     161 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-星期二                      52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-星期日                      59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+星期二                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 
@@ -87,26 +87,26 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-C#                       1 hr 25 mins        ████████████░░░░░░░░░░░░░   48.74 % 
-Markdown                 1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   41.69 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Markdown                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   51.91 % 
+C#                       1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 56 mins       █████████████████████████   99.90 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   99.93 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 操作系统: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (33.35%)
+⏱ AI Coding Time: 58 mins (21.55%)
 
-✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 149 lines written by hand (0.0% AI-written)
 
 🔤 25,053 Input Tokens, 25,053 Output Tokens
 
@@ -136,7 +136,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-07 21:39:23 UTC
+ Last Updated on 2026-09-08 21:18:37 UTC
 <!--END_SECTION:waka-->
 
 
