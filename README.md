@@ -58,28 +58,28 @@ Here are some ideas to get you started:
 
 #### coding time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2050%20mins-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌃 傍晚                     156 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
-🌙 晚上                     161 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
+🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌃 傍晚                     156 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌙 晚上                     162 commits         ██████████░░░░░░░░░░░░░░░   38.30 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-星期二                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-星期三                      60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+星期二                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+星期三                      61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -87,24 +87,24 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   51.91 % 
-C#                       1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.38 % 
+C#                       1 hr 54 mins        ███████████░░░░░░░░░░░░░░   42.30 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 32 mins       █████████████████████████   99.93 % 
+VS Code                  4 hrs 30 mins       █████████████████████████   99.93 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 操作系统: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (21.55%)
+⏱ AI Coding Time: 58 mins (21.75%)
 
 ✍️ 0 lines written by AI, 149 lines written by hand (0.0% AI-written)
 
@@ -123,20 +123,20 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
-**我最常使用 Vue** 
+**我最常使用 JavaScript** 
 
 ```text
-Vue                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 2026-09-08 21:18:37 UTC
+ Last Updated on 2026-09-09 21:03:28 UTC
 <!--END_SECTION:waka-->
 
 
