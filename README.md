@@ -65,21 +65,21 @@ Here are some ideas to get you started:
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌃 傍晚                     156 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌙 晚上                     162 commits         ██████████░░░░░░░░░░░░░░░   38.30 % 
+🌞 早晨                     18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+🌆 白天                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌃 傍晚                     156 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌙 晚上                     163 commits         ██████████░░░░░░░░░░░░░░░   38.44 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-星期二                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-星期三                      61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-星期四                      57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+星期一                      47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+星期二                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+星期三                      61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+星期四                      58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+星期五                      51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+星期六                      89 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 ```
 
 
@@ -87,40 +87,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.38 % 
-C#                       1 hr 54 mins        ███████████░░░░░░░░░░░░░░   42.30 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 1 hr 53 mins        ██████████████████░░░░░░░   71.69 % 
+C#                       44 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 30 mins       █████████████████████████   99.93 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (21.75%)
-
-✍️ 0 lines written by AI, 149 lines written by hand (0.0% AI-written)
-
-🔤 25,053 Input Tokens, 25,053 Output Tokens
-
-💵 $0.20 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 25,198 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 JavaScript** 
@@ -136,7 +117,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-09 21:03:28 UTC
+ Last Updated on 2026-09-10 21:02:55 UTC
 <!--END_SECTION:waka-->
 
 
